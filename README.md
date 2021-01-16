@@ -1,5 +1,7 @@
 # SCA-Cloud-School-Application
-To 
+
+To test the application after running the container, i loaded the applicaion on port 80 of loclhost(this was the port assigned when running the container)
+Rendering of index.html onport 80 was successful.
 
 
 Docker Hub Repository
